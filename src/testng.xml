@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="pack1.classone"/>
+       <class name="pack1.classtwo"/>
+        <class name="pack1.classthree"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
